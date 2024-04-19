@@ -48,8 +48,7 @@
 <div style="display: flex; justify-content: center;">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupacesigdel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img src="https://camo.githubusercontent.com/27a5b5b9eddff78cca09e74dd0201610c97d9f8c814d7252d028b2fc089929fe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d72757061636573696764656c2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="GitHub Repository Languages">
-  </div>
+    </div>
   
   <div style="margin-left: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=rupacesigdel&show_icons=true&locale=en" alt="GitHub Stats" />
