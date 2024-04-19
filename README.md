@@ -33,39 +33,28 @@
 <br>
 <p align="center" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img style="margin-left:40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img style="margin-left:40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
 
-<h1 align="center" style="margin-top:20px;">📈Status</h1>
+<h1 align="center" style="margin-top:20px;">📈 Status</h1>
 
-<div>
 <div style="display: flex; justify-content: center;">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupacesigdel&show_icons=true&locale=en&layout=compact" alt="rupacesigdel" /></p>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupacesigdel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
   
-  <p style="margin-left: 15px;"><img src="https://github-readme-stats.vercel.app/api?username=rupacesigdel&show_icons=true&locale=en" alt="rupacesigdel" /></p>
+  <div style="margin-left: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rupacesigdel&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
 </div>
 
 <p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupacesigdel&" alt="rupacesigdel" style="filter: hue-rotate(240deg);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupacesigdel&" alt="GitHub Streak" style="filter: hue-rotate(240deg);">
 </p>
-
-</div>
-</div>
