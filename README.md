@@ -40,7 +40,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </p>
-<!--     <div>
+<div>
   <h1 align="center" style="margin-top: 20px;">📈 Status</h1>
   <div style="display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupacesigdel&show_icons=true&locale=en&layout=compact" alt="GitHub Repository Languages">  
@@ -52,4 +52,4 @@
   <p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupacesigdel" alt="GitHub Streak" style="filter: hue-rotate(240deg);">
   </p>
-</div> -->
+</div>
