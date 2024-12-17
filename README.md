@@ -44,6 +44,6 @@
   <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rupacesigdel&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;">  
     <img src="https://github-readme-stats.vercel.app/api?username=rupacesigdel&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupacesigdel" alt="GitHub Streak" style="filter: hue-rotate(240deg);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupacesigdel" alt="GitHub Streak" style="filter:hue-rotate(240deg);">
   </div>
 </div>
