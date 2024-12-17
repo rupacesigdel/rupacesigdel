@@ -1,5 +1,5 @@
 <div style="background-color: #0d1117; padding: 20px; border: 2px solid #ffffff; border-radius: 10px;">
-  <h1 align="center">👋 Hi, I'm Rupesh 🥳 Sigdel 🤙</h1>
+  <h1 align="center">👋 Hi, I'm Rupesh Sigdel 🙋‍♂️</h1>
   <br>
   
   <!-- Social Media Badges -->
