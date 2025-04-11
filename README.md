@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://quira.sh/user/rupacesigdel" style="margin-left: 10px;">
-        <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Badge"/>
+        <img src="https://img.shields.io/badge/Quira-B92B27?style=for-the-badge&logo=quira&logoColor=white" alt="Quira Badge"/>
     </a>
 </div>
 
