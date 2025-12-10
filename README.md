@@ -9,7 +9,7 @@
 
   <!-- Social Media Badges -->
 <div id="badges" align="center">
-    <a href="https://www.instagram.com/rup_ace_sigdel/?next=%2F">
+    <a href="https://www.instagram.com/jr_rupesh_sigdel/?next=%2F">
         <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://www.facebook.com/rupesh.sigdel.73" style="margin-left: 10px;">
